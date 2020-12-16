@@ -1,0 +1,7 @@
+
+1. The file, stewart_platform_final3.slx, is a simulink code. Hit the green button to run the program.
+2.Simulation Animation.mov is a MOV file that shows the animation of the stewart platform that is controlled to keep
+the top plate always perpendicular to the gravity vector.
+3.A report is included that describes the project. Here is a link to a video that was the inspiration behind this project-
+https://www.youtube.com/watch?v=N-aE5oszXyQ&feature=youtu.be
+4. This project was done in a group of 3.
